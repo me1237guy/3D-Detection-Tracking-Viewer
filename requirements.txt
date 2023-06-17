@@ -1,0 +1,5 @@
+pip install numpy==1.21.3
+pip install vedo==2021.0.6
+pip install vtk==9.0.3
+conda install opencv==4.6.0
+pip install matplotlib==3.4.3
